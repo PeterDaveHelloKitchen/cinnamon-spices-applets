@@ -174,7 +174,7 @@ msgid ""
 "Panel Translator popup window using a left click on the Panel Translator "
 "button"
 msgstr ""
-"當您使用滑鼠左鍵點選面板翻譯工具按鈕開啟彈出式視窗時，系統會自動翻譯您選取的文字或剪貼簿中的內容"
+"使用滑鼠左鍵點選 [Panel Translator] 按鈕開啟彈出式視窗時，系統會自動翻譯選取的文字或剪貼簿的內容"
 
 #. settings-schema.json->left-auto-play->description
 msgid "Automatically play the translation on left click"
@@ -242,7 +242,7 @@ msgid ""
 "Select the action to take when using the middle mouse button to click on the "
 "translator panel button"
 msgstr ""
-"選擇使用滑鼠中鍵點選翻譯工具面板按鈕時要執行的動作"
+"選擇使用滑鼠中鍵點選 [Panel Translator] 按鈕時要執行的動作"
 
 #. settings-schema.json->ctrl-middle-button-action->description
 msgid "Ctrl + Middle button action"
@@ -253,4 +253,4 @@ msgid ""
 "Select the action to take when holding the Ctrl key and using the middle "
 "mouse button to click on the translator panel button"
 msgstr ""
-"選擇按住 Ctrl 鍵並使用滑鼠中鍵點選翻譯工具面板按鈕時要執行的動作"
+"選擇按住 Ctrl 鍵並使用滑鼠中鍵點選 [Panel Translator] 按鈕時要執行的動作"
